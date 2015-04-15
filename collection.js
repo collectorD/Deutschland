@@ -1,7 +1,7 @@
 [
     { "moduleId" : "mapman100/Blitzer"},
     
-    { "moduleId" : "supermap01/verkehrsinfo.de"},
+    { "moduleId" : "wazemap/verkehrsinfo.de"},
     
     { "moduleId" : "jamesbond002/fixTanken"},
     
@@ -9,7 +9,7 @@
     
     { "moduleId" : "wazemap/waze"},
     
-    { "moduleId" : "wikifan/wikimap"},
+    { "moduleId" : "wazemap/wikimap"},
     
     { "moduleId" : "grabowCommuter/Speedometer"}
     
