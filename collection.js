@@ -11,6 +11,8 @@
     
     { "moduleId" : "wazemap/wikimap"},
     
-    { "moduleId" : "grabowCommuter/Google_Places"}
+    { "moduleId" : "grabowCommuter/Google_Places"},
+    
+    { "moduleId" : "maps4all/parkopedia"}
     
 ]
