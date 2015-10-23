@@ -3,7 +3,7 @@
     
     { "moduleId" : "wazemap/verkehrsinfo.de"},
     
-    { "moduleId" : "jamesbond002/fixTanken"},
+    { "moduleId" : "jamesbond002/tankentanken"},
     
     { "moduleId" : "mapman100/Here"},
     
@@ -11,6 +11,6 @@
     
     { "moduleId" : "wazemap/wikimap"},
     
-    { "moduleId" : "grabowCommuter/Speedometer"}
+    { "moduleId" : "grabowCommuter/Google_Places"}
     
 ]
