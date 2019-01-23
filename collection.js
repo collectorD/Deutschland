@@ -5,14 +5,14 @@
     
     { "moduleId" : "jamesbond002/tankentanken"},
     
-    { "moduleId" : "mapman100/Here"},
-    
-    { "moduleId" : "wazemap/waze"},
-    
-    { "moduleId" : "wazemap/wikimap"},
-    
     { "moduleId" : "grabowCommuter/Google_Places"},
     
-    { "moduleId" : "maps4all/parkopedia"}
+     { "moduleId" : "grabowCommuter/GoogleSatTraffic"},
+    
+    { "moduleId" : "grabowCommuter/TomTomMap"},
+    
+    { "moduleId" : "grabowCommuter/TomTomNews"},
+    
+    { "moduleId" : "grabowCommuter/wikimap"}
     
 ]
